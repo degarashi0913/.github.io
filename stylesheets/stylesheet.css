@@ -368,7 +368,13 @@ Full-Width Styles
   background: #212121;
 }
 
-
+.degarashi_icon {
+  float: right;
+  height: 100px;
+  width: 100px;
+  background: url(../images/degarashi_icon.png) #fff;
+  background-size: cover;
+}
 
 /*******************************************************************************
 Small Device Styles
