@@ -378,7 +378,7 @@ Full-Width Styles
 
 #box {
 }
-#box_inner {
+#box-inner {
   padding-left: 15px;
   float: right;
   width: 200px;
