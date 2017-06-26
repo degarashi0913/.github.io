@@ -368,6 +368,7 @@ Full-Width Styles
 #main_content_inner {
   display: block;
   float: left;
+  width: 400;
 }
 
 #footer_wrap {
@@ -376,6 +377,7 @@ Full-Width Styles
 
 #box {
   float: right;
+  width: 200;
 }
 #box_inner {
   padding-left: 15px;  
