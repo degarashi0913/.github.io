@@ -376,11 +376,12 @@ Full-Width Styles
 }
 
 #box {
-  float: right;
-  width: 200;
+
 }
 #box_inner {
-  padding-left: 15px;  
+  padding-left: 15px;
+  float: right;
+  width: 200;
 }
 
 .degarashi_icon {
