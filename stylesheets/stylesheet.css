@@ -367,6 +367,9 @@ Full-Width Styles
 
 #main_content_inner {
   display: block;
+}
+
+#main_content_left{
   float: left;
   width: 400;
 }
@@ -375,13 +378,15 @@ Full-Width Styles
   background: #212121;
 }
 
+#main_content_right{
+  float: right;
+  width: 200;
+}
 #box {
 
 }
 #box_inner {
   padding-left: 15px;
-  float: right;
-  width: 200;
 }
 
 .degarashi_icon {
